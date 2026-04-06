@@ -2,7 +2,7 @@
 <p>
 Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.
 </p>
->Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
+>Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.>
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
@@ -82,7 +82,7 @@ PT_Reposicion_Logistica/
 
 ## Información Importante:
 
->Nota sobre el archivo Power BI: El archivo utiliza una ruta **parametrizada**, por si los datos no cargan correctamente:
+>Nota sobre el archivo Power BI: El archivo utiliza una ruta **parametrizada**, por si los datos no cargan correctamente:>
 
 <ol>
 <li>Ir a **Transformar datos**.</li>
