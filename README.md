@@ -2,7 +2,7 @@
 <p>
 Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.
 </p>
->Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.>
+>Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
@@ -23,28 +23,28 @@ Proyecto de análisis de reposición de inventario mediante el procesamiento de 
 ## Proceso:
 
 <ol>
-<li>**Extracción y Limpieza de Datos:**</li>
+<li>Extracción y Limpieza de Datos:</li>
 	<ul>
 	<li>Extracción de información de la fuente de datos.</li>
 	<li>Tratamiento de valores nulos y espacios limites innecesarios.</li>
 	<li>Estandarización de formatos.</li>
 	<li>Exportación de tablas.</li>
 	</ul>
-<li>**Procesamiento y Análisis:**</li>
+<li>Procesamiento y Análisis:</li>
 	<ul>
 		<li>Administración de relaciones entre tablas.</li>
 		<li>Cálculo de totales (Venta Neto, Venta Promedio, Venta Maxima).</li>
 		<li>Ventas acumuladas.</li>
 		<li>Porcentaje acumulado.</li>
 	</ul>
-<li>**Clasificación ABC y Evaluación de Reposición:**</li>
+<li>Clasificación ABC y Evaluación de Reposición:</li>
 	<ul>
 		<li>Identificación de productos críticos.</li>
 		<li>Segmentación por importancia.</li>
 		<li>Evaluación de resultados y asignación de estado de reposición.</li>
 		<li>Segmentación por categoría y año.</li>
 	</ul>
-<li>**Visualización:**</li>
+<li>Visualización:</li>
 	<ul>
 		<li>Dashboard en Power BI.</li>
 		<li>KPIs de rendimiento y comparación entre periodos.</li>
@@ -82,7 +82,7 @@ PT_Reposicion_Logistica/
 
 ## Información Importante:
 
->Nota sobre el archivo Power BI: El archivo utiliza una ruta **parametrizada**, por si los datos no cargan correctamente:>
+>Nota sobre el archivo Power BI: El archivo utiliza una ruta **parametrizada**, por si los datos no cargan correctamente:
 
 <ol>
 <li>Ir a **Transformar datos**.</li>
