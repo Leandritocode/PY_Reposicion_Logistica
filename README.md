@@ -66,18 +66,16 @@ Proyecto de análisis de reposición de inventario mediante el procesamiento de 
 ## Estructura del Proyecto:
 
 La estructura del proyecto realizado es el siguiente:
+<p>PT_Reposicion_Logistica</p>
 <ol>
-	<li>PT_Reposicion_Logistica</li>
+	<li>data/</li>
 		<ol>
-			<li>data/</li>
-				<ol>
-					<li>raw/</li>
-					<li>clean/</li>
-					<li>templates/</li>
-				</ol>
-			<li>scripts/</li>
-			<li>readme/</li>
+			<li>raw/</li>
+			<li>clean/</li>
+			<li>templates/</li>
 		</ol>
+	<li>scripts/</li>
+	<li>readme/</li>
 </ol>
 </p>
 
