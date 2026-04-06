@@ -1,8 +1,8 @@
 # Sistema de Reposición de Logística
+>Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
 <p>
 Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.
 </p>
->Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
@@ -66,18 +66,19 @@ Proyecto de análisis de reposición de inventario mediante el procesamiento de 
 ## Estructura del Proyecto:
 
 La estructura del proyecto realizado es el siguiente:
-PT_Reposicion_Logistica/
-│
-├── data/
-│ ├── raw/
-│ └── clean/
-│ └── templates/
-│
-├── scripts/
-│
-├── main.py
-│
-├── README.md
+<ol>
+	<li>PT_Reposicion_Logistica</li>
+		<ol>
+			<li>data/</li>
+				<ol>
+					<li>raw/</li>
+					<li>clean/</li>
+					<li>templates/</li>
+				</ol>
+			<li>scripts/</li>
+			<li>readme/</li>
+		</ol>
+</ol>
 </p>
 
 ## Información Importante:
@@ -85,8 +86,8 @@ PT_Reposicion_Logistica/
 >Nota sobre el archivo Power BI: El archivo utiliza una ruta **parametrizada**, por si los datos no cargan correctamente:
 
 <ol>
-<li>Ir a **Transformar datos**.</li>
-<li>Editar el parámetro **Ruta Base**.</li>
+<li>Ir a Transformar datos.</li>
+<li>Editar el parámetro Ruta Base.</li>
 <li>Ajustar la ruta a la ubicación local.</li>
 </ol>
 </p>
