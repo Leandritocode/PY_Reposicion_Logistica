@@ -1,3 +1,4 @@
+>Se puede visualizar las imagenes previas del proyecto dentro de la carpeta images/
 # Sistema de Reposición de Logística
 >Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
 <p>
@@ -74,8 +75,9 @@ La estructura del proyecto realizado es el siguiente:
 			<li>clean/</li>
 			<li>templates/</li>
 		</ol>
+	<li>images/</li>
 	<li>scripts/</li>
-	<li>readme/</li>
+	<li>readme</li>
 </ol>
 </p>
 
