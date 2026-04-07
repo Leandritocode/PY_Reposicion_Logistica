@@ -5,9 +5,7 @@
 
 <p>Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.</p>
 
-[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/)
-[![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
-![Status](https://img.shields.io/badge/Status-Concluido-green)
+[![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/) ![Status](https://img.shields.io/badge/Pandas-3.0.2-purple) [![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/) ![Status](https://img.shields.io/badge/Status-Concluido-green)
 
 
 ## Problematica:
