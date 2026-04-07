@@ -1,17 +1,19 @@
 >Se puede visualizar las imagenes previas del proyecto dentro de la carpeta images/
+
 # Sistema de Reposición de Logística
 >Nota: Los datos presentados corresponden a una empresa del sector comercial de repuestos automotrices. La información ha sido anonimizada con el fin de proteger datos sensibles y garantizar la confidencialidad de la organización.
-<p>
-Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.
-</p>
+
+<p>Proyecto de análisis de reposición de inventario mediante el procesamiento de datos en Python y visualización en Power BI.</p>
 
 [![Python](https://img.shields.io/badge/Python-3.12.10-blue?logo=python)](https://www.python.org/)
 [![Power BI](https://img.shields.io/badge/Power_BI-Report-yellow?logo=microsoft-power-bi)](https://powerbi.microsoft.com/)
 ![Status](https://img.shields.io/badge/Status-Concluido-green)
-</p>
+
+
+## Problematica:
+<p>La empresa gestiona su reposición mediante un reporte en Excel basado en fórmulas para identificar productos según su venta máxima; sin embargo, este enfoque genera tiempos prolongados de actualización, bajo nivel de visualización de la información y lentitud en el análisis, ya que cada interacción o filtro recalcula las fórmulas, afectando la eficiencia y la toma oportuna de decisiones.</p>
 
 ## Objetivos:
-
 
 <ul>
 	<li>Desarrollar un sistema basado en datos.</li>
@@ -19,7 +21,6 @@ Proyecto de análisis de reposición de inventario mediante el procesamiento de 
 	<li>Analizar la demanda y mejorar la toma de decisiones.</li>
 	<li>Reducir el tiempo de procesamiento y actualización de los datos.</li>
 </ul>
-</p>
 
 ## Proceso:
 
@@ -52,33 +53,30 @@ Proyecto de análisis de reposición de inventario mediante el procesamiento de 
 		<li>Análisis de comportamiento mensual.</li>
 	</ul>
 </ol>
-</p>
 
 ## Resultados:
 
 <ul>
 	<li>Evaluación de comportamiento de productos por mes.</li>
 	<li>Detección de picos de demanda.</li>
-	<li>Reducción del tiempo de procesamiento y actualización de datos de 1 minutos a 30 segundos por actualización de información en la fuente de datos.</li>
+	<li>Reducción del tiempo de procesamiento y actualización de datos de **1 minutos a 30 segundos** por actualización de información en la fuente de datos.</li>
 	<li>Clasificación ABC  por priorización de inventario.</li>
 </ul>
-</p>
 
 ## Estructura del Proyecto:
 
-La estructura del proyecto realizado es el siguiente:
-<p>PT_Reposicion_Logistica</p>
-<ol>
+<p>La estructura del proyecto realizado es el siguiente:</p>
+<ul>
 	<li>data/</li>
-		<ol>
+		<ul>
 			<li>raw/</li>
 			<li>clean/</li>
 			<li>templates/</li>
-		</ol>
+		</ul>
 	<li>images/</li>
 	<li>scripts/</li>
 	<li>readme</li>
-</ol>
+</ul>
 </p>
 
 ## Información Importante:
@@ -90,10 +88,7 @@ La estructura del proyecto realizado es el siguiente:
 <li>Editar el parámetro Ruta Base.</li>
 <li>Ajustar la ruta a la ubicación local.</li>
 </ol>
-</p>
 
 ## Autor:
 
-<p>
-Proyecto desarrollado por Aldair Leandro como parte de su formación en análisis de datos y mejora de procesos logísticos.
-</p>
+<p>Proyecto desarrollado por Aldair Leandro como parte de su formación en análisis de datos y mejora de procesos logísticos.</p>
